@@ -8,6 +8,9 @@ This is a list of resources related to embedded and low-level programming in the
 
 [<img src="https://rawgit.com/berkus/awesome-embedded-rust/master/rust-embedded-logo-256x256.png" align="right" width="256">](http://www.rust-embedded.org)
 
+### Books
+
+-   [Discovery](https://japaric.github.io/discovery/) by japaric - this book is an "introductory course" on microcontroller-based "embedded systems" that uses Rust as the teaching language.
 ### R
 
 -   [Robigalia](https://robigalia.org) IoT operating system in Rust running on secure seL4 microkernel.
