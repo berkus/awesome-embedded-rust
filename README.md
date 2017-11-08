@@ -4,10 +4,9 @@
 
 This is a list of resources related to embedded and low-level programming in the programming language Rust.
 
+[embedded.rs](https://t.me/embedded_rs) Telegram channel about Rust, microcontrollers and catgirls [ru]
 
 [<img src="https://rawgit.com/berkus/awesome-embedded-rust/master/rust-embedded-logo-256x256.png" align="right" width="256">](http://www.rust-embedded.org)
-
-
 
 ### R
 
