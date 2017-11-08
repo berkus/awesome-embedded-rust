@@ -11,6 +11,7 @@ This is a list of resources related to embedded and low-level programming in the
 ### R
 
 -   [Robigalia](https://robigalia.org) IoT operating system in Rust running on secure seL4 microkernel.
+-   [RTFM v2](http://blog.japaric.io/rtfm-v2/) Real-Time For the Masses - Cortex-M programming framework.
 
 ### S
 
