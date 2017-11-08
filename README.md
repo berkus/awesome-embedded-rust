@@ -13,6 +13,10 @@ This is a list of resources related to embedded and low-level programming in the
 ### R
 
 [Robigalia](https://robigalia.org) IoT operating system in Rust running on secure seL4 microkernel.
+
+### S
+
+[svd2rust](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
 ### X
 
 [xargo](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries - build rust runtime for your own embedded system.
