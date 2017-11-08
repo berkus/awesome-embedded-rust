@@ -17,6 +17,10 @@ This is a list of resources related to embedded and low-level programming in the
 ### S
 
 [svd2rust](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
+
+### T
+
+[Tock](https://www.tockos.org) An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers
 ### X
 
 [xargo](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries - build rust runtime for your own embedded system.
