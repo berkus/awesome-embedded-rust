@@ -29,6 +29,7 @@ This is a list of resources related to embedded and low-level programming in the
 
 -   [Robigalia](https://robigalia.org) IoT operating system in Rust running on secure seL4 microkernel.
 -   [RTFM v2](http://blog.japaric.io/rtfm-v2/) Real-Time For the Masses - Cortex-M programming framework.
+-   [Raspberry Pi Bare Metal Programming with Rust](https://medium.com/@thiagopnts/raspberry-pi-bare-metal-programming-with-rust-a6f145e84024) A starter article on OSdev with Rust on RPi (cross-compiler setup and a very basic LED-blinking kernel).
 
 ### S
 
