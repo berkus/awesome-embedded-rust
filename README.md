@@ -46,6 +46,7 @@ This is a list of resources related to embedded and low-level programming in the
 ### U
 
 -   [μtest](https://github.com/japaric/utest) unit testing for microcontrollers and other no-std systems.
+-   [Using Rust in an Embedded Project: A Simple Example](https://spin.atomicobject.com/2016/07/08/rust-embedded-project-example/#.V3-os-6qlZw.hackernews) Article and some links on setting up Rust cross-compiling.
 
 ### X
 
