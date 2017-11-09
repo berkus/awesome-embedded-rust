@@ -21,6 +21,10 @@ This is a list of resources related to embedded and low-level programming in the
 
 -   [AVR Rust](https://github.com/avr-rust/rust) Fork of Rust with AVR support.
 
+### I
+
+-   [intermezzOS](http://intermezzos.github.io) A small teaching operating system in Rust. A book with some explanations also included.
+
 ### P
 
 -   [Pragmatic Bare Metal Rust](http://www.hashmismatch.net/pragmatic-bare-metal-rust/) A starter article about starting Rust development on STM32 microcontrollers.
