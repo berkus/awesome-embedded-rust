@@ -17,6 +17,10 @@ This is a list of resources related to embedded and low-level programming in the
 -   [Exploring Rust on Teensy](https://branan.github.io/teensy/) by branan - Beginner set of articles on getting into embedded dev in Rust.
 -   [Fearless concurrency](http://blog.japaric.io/fearless-concurrency/) by japaric - How to easily develop Rust programs for pretty much any ARM Cortex-M microcontroller with memory-safe concurrency.
 
+### P
+
+-   [Pragmatic Bare Metal Rust](http://www.hashmismatch.net/pragmatic-bare-metal-rust/) A starter article about starting Rust development on STM32 microcontrollers.
+
 ### R
 
 -   [Robigalia](https://robigalia.org) IoT operating system in Rust running on secure seL4 microkernel.
