@@ -18,7 +18,7 @@ This is a list of resources related to embedded and low-level programming in the
 -   [AVR Rust](https://github.com/avr-rust/rust) Fork of Rust with AVR support.
 
 #### STM32
--   [Pragmatic Bare Metal Rust](http://www.hashmismatch.net/pragmatic-bare-metal-rust/) A starter article about starting Rust development on STM32 microcontrollers ((cubeMX + FFI).
+-   [Pragmatic Bare Metal Rust](http://www.hashmismatch.net/pragmatic-bare-metal-rust/) A starter article about starting Rust development on STM32 microcontrollers (cubeMX + FFI).
 -   [Using Rust in an Embedded Project: A Simple Example](https://spin.atomicobject.com/2016/07/08/rust-embedded-project-example/#.V3-os-6qlZw.hackernews) Article and some links on setting up Rust cross-compiling.
 -   [stm32f103xx](https://github.com/japaric/stm32f103xx) Peripheral access API for STM32F103XX microcontrollers (generated using svd2rust)
 -   [stm32f30x](https://github.com/japaric/stm32f30x) Peripheral access API for STM32F30X microcontrollers (generated using svd2rust)
@@ -43,7 +43,7 @@ This is a list of resources related to embedded and low-level programming in the
 
 ## Sheduling/RTOS 
 -   [Fearless concurrency](http://blog.japaric.io/fearless-concurrency/) by japaric --- How to easily develop Rust programs for pretty much any ARM Cortex-M microcontroller with memory-safe concurrency.
--   [RTFM v2](http://blog.japaric.io/rtfm-v2/) Real-Time For the Masses --- Cortex-M programming framework.
+-   [RTFM v2](http://blog.japaric.io/rtfm-v2/) Real-Time For the Masses --- Cortex-M programming framework  for building concurrent applications.
 -   [cortex-m rtfm](https://github.com/japaric/cortex-m-rtfm) RTFM framework for ARM Cortex-M microcontrollers
 -   [msp430 rtfm](https://github.com/japaric/msp430-rtfm) RTFM framework for MSP430 MCUs
 -   [FreeRTOS.rs](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
