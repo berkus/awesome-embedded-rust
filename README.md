@@ -20,6 +20,11 @@ This is a list of resources related to embedded and low-level programming in the
 #### STM32
 -   [Pragmatic Bare Metal Rust](http://www.hashmismatch.net/pragmatic-bare-metal-rust/) A starter article about starting Rust development on STM32 microcontrollers.
 -   [Using Rust in an Embedded Project: A Simple Example](https://spin.atomicobject.com/2016/07/08/rust-embedded-project-example/#.V3-os-6qlZw.hackernews) Article and some links on setting up Rust cross-compiling.
+-   [stm32f103xx](https://github.com/japaric/stm32f103xx) Peripheral access API for STM32F103XX microcontrollers (generated using svd2rust)
+-   [stm32f30x](https://github.com/japaric/stm32f30x) Peripheral access API for STM32F30X microcontrollers (generated using svd2rust)
+-   [stm32f100xx](https://github.com/japaric/stm32f100xx) Peripheral access API for STM32F100XX microcontrollers (generated using svd2rust)
+-   [blue-pill](https://github.com/japaric/blue-pill) Board Support Crate for Blue Pill (STM32F103C8 board)
+-   [F3 BSP](https://github.com/japaric/f3) Board Support Crate for the STM32F3DISCOVERY
 
 #### Nordic semiconductor
 
