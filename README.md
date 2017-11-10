@@ -39,6 +39,7 @@ This is a list of resources related to embedded and low-level programming in the
 -   [Raspberry Pi Bare Metal Programming with Rust](https://medium.com/@thiagopnts/raspberry-pi-bare-metal-programming-with-rust-a6f145e84024) A starter article on OSdev with Rust on RPi (cross-compiler setup and a very basic LED-blinking kernel).
 
 ## Peripherial libraries and drivers
+-   [Embedded hal](https://japaric.github.io/embedded-hal/embedded_hal/index.html) A minimal Hardware Abstraction Layer (HAL) for embedded systems (design phase).
 
 ## Sheduling/RTOS 
 -   [Fearless concurrency](http://blog.japaric.io/fearless-concurrency/) by japaric --- How to easily develop Rust programs for pretty much any ARM Cortex-M microcontroller with memory-safe concurrency.
