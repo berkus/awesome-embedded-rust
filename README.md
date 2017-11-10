@@ -52,6 +52,7 @@ This is a list of resources related to embedded and low-level programming in the
 -   [xargo](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries --- build rust runtime for your own embedded system.
 -   [svd2rust](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
 -   [μtest](https://github.com/japaric/utest) unit testing for microcontrollers and other no-std systems.
+-   [bindgen](https://crates.io/crates/bindgen) Automatically generates Rust FFI bindings to C and C++ libraries.
 
 ## Complex projects/frameworks
 -   [Robigalia](https://robigalia.org) IoT operating system in Rust running on secure seL4 microkernel.
