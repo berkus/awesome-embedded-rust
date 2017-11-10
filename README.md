@@ -46,6 +46,7 @@ This is a list of resources related to embedded and low-level programming in the
 -   [RTFM v2](http://blog.japaric.io/rtfm-v2/) Real-Time For the Masses --- Cortex-M programming framework.
 -   [cortex-m rtfm](https://github.com/japaric/cortex-m-rtfm) RTFM framework for ARM Cortex-M microcontrollers
 -   [msp430 rtfm](https://github.com/japaric/msp430-rtfm) RTFM framework for MSP430 MCUs
+-   [FreeRTOS.rs](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
 
 ## Tools
 -   [xargo](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries --- build rust runtime for your own embedded system.
