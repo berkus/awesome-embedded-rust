@@ -27,6 +27,8 @@ This is a list of resources related to embedded and low-level programming in the
 -   [F3 BSP](https://github.com/japaric/f3) Board Support Crate for the STM32F3DISCOVERY
 
 #### Nordic semiconductor
+-   [nrf51](https://github.com/japaric/nrf51) Peripheral access API for nRF51 microcontrollers (generated using svd2rust)
+-   [nrf51822 playground](https://github.com/japaric/nrf51822) A crate to play with the nrf51822 module
 
 #### MSP430
 
