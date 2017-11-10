@@ -4,17 +4,38 @@
 
 This is a list of resources related to embedded and low-level programming in the programming language Rust.
 
-[embedded.rs](https://t.me/embedded_rs) Telegram channel about Rust, microcontrollers and catgirls [ru]
-
 [<img src="https://rawgit.com/berkus/awesome-embedded-rust/master/rust-embedded-logo-256x256.png" align="right" width="256">](http://www.rust-embedded.org)
 
-### Books
+## Books, blogs and training materials
 
 -   [Discovery](https://japaric.github.io/discovery/) by japaric - this book is an "introductory course" on microcontroller-based "embedded systems" that uses Rust as the teaching language.
-
-### Essential blog posts
-
 -   [Exploring Rust on Teensy](https://branan.github.io/teensy/) by branan - Beginner set of articles on getting into embedded dev in Rust.
+
+## Platform core support
+
+#### AVR
+
+
+#### STM32
+
+#### Nordic semiconductor
+
+#### MSP430
+
+#### Raspberry Pi, etc
+
+## Peripherial libraries and drivers
+
+## Sheduling/RTOS 
+
+## Tools
+
+## Complex projects/frameworks
+
+## Community
+[embedded.rs](https://t.me/embedded_rs) Telegram channel about Rust, microcontrollers and catgirls [ru]
+
+
 -   [Fearless concurrency](http://blog.japaric.io/fearless-concurrency/) by japaric - How to easily develop Rust programs for pretty much any ARM Cortex-M microcontroller with memory-safe concurrency.
 
 ### A
