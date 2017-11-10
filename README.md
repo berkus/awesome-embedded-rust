@@ -8,8 +8,8 @@ This is a list of resources related to embedded and low-level programming in the
 
 ## Books, blogs and training materials
 
--   [Discovery](https://japaric.github.io/discovery/) by japaric - this book is an "introductory course" on microcontroller-based "embedded systems" that uses Rust as the teaching language.
--   [Exploring Rust on Teensy](https://branan.github.io/teensy/) by branan - Beginner set of articles on getting into embedded dev in Rust.
+-   [Discovery](https://japaric.github.io/discovery/) by japaric --- this book is an "introductory course" on microcontroller-based "embedded systems" that uses Rust as the teaching language.
+-   [Exploring Rust on Teensy](https://branan.github.io/teensy/) by branan --- Beginner set of articles on getting into embedded dev in Rust.
 
 ## Platform core support
 
@@ -30,11 +30,11 @@ This is a list of resources related to embedded and low-level programming in the
 ## Peripherial libraries and drivers
 
 ## Sheduling/RTOS 
--   [Fearless concurrency](http://blog.japaric.io/fearless-concurrency/) by japaric - How to easily develop Rust programs for pretty much any ARM Cortex-M microcontroller with memory-safe concurrency.
--   [RTFM v2](http://blog.japaric.io/rtfm-v2/) Real-Time For the Masses - Cortex-M programming framework.
+-   [Fearless concurrency](http://blog.japaric.io/fearless-concurrency/) by japaric --- How to easily develop Rust programs for pretty much any ARM Cortex-M microcontroller with memory-safe concurrency.
+-   [RTFM v2](http://blog.japaric.io/rtfm-v2/) Real-Time For the Masses --- Cortex-M programming framework.
 
 ## Tools
--   [xargo](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries - build rust runtime for your own embedded system.
+-   [xargo](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries --- build rust runtime for your own embedded system.
 -   [svd2rust](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
 -   [μtest](https://github.com/japaric/utest) unit testing for microcontrollers and other no-std systems.
 
