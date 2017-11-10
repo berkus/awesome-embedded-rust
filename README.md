@@ -12,6 +12,7 @@ This is a list of resources related to embedded and low-level programming in the
 -   [Exploring Rust on Teensy](https://branan.github.io/teensy/) by branan --- Beginner set of articles on getting into embedded dev in Rust.
 
 ## Platform core support
+-    [cortex-m](https://github.com/japaric/cortex-m) Low level access to Cortex-M processors
 
 #### AVR
 -   [AVR Rust](https://github.com/avr-rust/rust) Fork of Rust with AVR support.
