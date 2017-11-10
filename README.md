@@ -31,6 +31,9 @@ This is a list of resources related to embedded and low-level programming in the
 -   [nrf51822 playground](https://github.com/japaric/nrf51822) A crate to play with the nrf51822 module
 
 #### MSP430
+-   [msp430g2553](https://github.com/japaric/msp430g2553) Peripheral access API for MSP430G2553 microcontrollers (generated using svd2rust)
+-   [rust on msp](https://github.com/japaric/rust_on_msp) Simple blinking LED example that runs on MSP430.
+-   [msp430 quickstart](https://github.com/japaric/msp430-quickstart) some examples for msp430
 
 #### Raspberry Pi, etc
 -   [Raspberry Pi Bare Metal Programming with Rust](https://medium.com/@thiagopnts/raspberry-pi-bare-metal-programming-with-rust-a6f145e84024) A starter article on OSdev with Rust on RPi (cross-compiler setup and a very basic LED-blinking kernel).
