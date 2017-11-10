@@ -18,7 +18,7 @@ This is a list of resources related to embedded and low-level programming in the
 -   [AVR Rust](https://github.com/avr-rust/rust) Fork of Rust with AVR support.
 
 #### STM32
--   [Pragmatic Bare Metal Rust](http://www.hashmismatch.net/pragmatic-bare-metal-rust/) A starter article about starting Rust development on STM32 microcontrollers.
+-   [Pragmatic Bare Metal Rust](http://www.hashmismatch.net/pragmatic-bare-metal-rust/) A starter article about starting Rust development on STM32 microcontrollers ((cubeMX + FFI).
 -   [Using Rust in an Embedded Project: A Simple Example](https://spin.atomicobject.com/2016/07/08/rust-embedded-project-example/#.V3-os-6qlZw.hackernews) Article and some links on setting up Rust cross-compiling.
 -   [stm32f103xx](https://github.com/japaric/stm32f103xx) Peripheral access API for STM32F103XX microcontrollers (generated using svd2rust)
 -   [stm32f30x](https://github.com/japaric/stm32f30x) Peripheral access API for STM32F30X microcontrollers (generated using svd2rust)
