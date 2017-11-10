@@ -44,6 +44,8 @@ This is a list of resources related to embedded and low-level programming in the
 ## Sheduling/RTOS 
 -   [Fearless concurrency](http://blog.japaric.io/fearless-concurrency/) by japaric --- How to easily develop Rust programs for pretty much any ARM Cortex-M microcontroller with memory-safe concurrency.
 -   [RTFM v2](http://blog.japaric.io/rtfm-v2/) Real-Time For the Masses --- Cortex-M programming framework.
+-   [cortex-m rtfm](https://github.com/japaric/cortex-m-rtfm) RTFM framework for ARM Cortex-M microcontrollers
+-   [msp430 rtfm](https://github.com/japaric/msp430-rtfm) RTFM framework for MSP430 MCUs
 
 ## Tools
 -   [xargo](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries --- build rust runtime for your own embedded system.
