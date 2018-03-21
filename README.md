@@ -44,7 +44,7 @@ In 2018 Mozilla asked for creation of an embedded workgroup to help drive adopti
 #### Raspberry Pi, etc
 -   [Raspberry Pi Bare Metal Programming with Rust](https://medium.com/@thiagopnts/raspberry-pi-bare-metal-programming-with-rust-a6f145e84024) A starter article on OSdev with Rust on RPi (cross-compiler setup and a very basic LED-blinking kernel).
 
-## Peripherial libraries and drivers
+## Peripheral libraries and drivers
 -   [Embedded hal](https://japaric.github.io/embedded-hal/embedded_hal/index.html) A minimal Hardware Abstraction Layer (HAL) for embedded systems (design phase).
 
 ## Sheduling/RTOS 
